@@ -1,8 +1,8 @@
 # Hi there, I'm Arina Musatova 👋 (@nllren)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nllren/nllren/main/IMG_0799.JPG" alt="Cat" width="400" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nllren/nllren/main/IMG_0799.JPG" alt="Banner" width="100%" style="border-radius: 10px;" />
+</p>
 
 ### 👩‍💻 About Me
 
