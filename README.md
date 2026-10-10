@@ -10,8 +10,7 @@
 
 ### 📌 Featured Projects
 
-* 📂 **[daily-programming](https://github.com/nllren/daily-programming)** — Мой репозиторий с ежедневными задачами, практикой программирования и учебными материалами.
-
+* 📂 **[daily-programming](https://github.com/nllren/daily-programming)** — A repository for daily tasks, coding practice, and study materials.
 ---
 
 ### 🛠️ Tech Stack & Tools
