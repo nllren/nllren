@@ -1,4 +1,4 @@
-# Hi there, I'm Арина 👋 (@nllren)
+# Hi there, I'm Arina 👋 (@nllren)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Software+Development+Student;C+%2F+Python+%2F+SQL+%2F+Luau;КАП+РАНХиГС+%E2%80%A2+201-ис-25" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 **Education:** КАП РАНХиГС, Информационные системы и программирование (группа 201-ис-25).
+* 🎓 **Education:** CMPE RANEPA, "Information Systems and Programming" (group 201-is-25). 
 * 💻 **Languages & Tech:** C, Python, SQL, Luau.
 * 🛠️ **Interests:** Low-level programming, database architecture, scripting, logic structures, and creative tech projects.
 
