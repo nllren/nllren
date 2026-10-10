@@ -1,5 +1,9 @@
 # Hi there, I'm Arina Musatova 👋 (@nllren)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nllren/nllren/main/IMG_0799.JPG" alt="Cat" width="400" />
+</div>
+
 ### 👩‍💻 About Me
 
 * 🎓 **Education:** CMPE RANEPA, "Information Systems and Programming" (group 201-is-25).
