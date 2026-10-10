@@ -1,10 +1,16 @@
-# Hi there, I'm Arina 👋 (@nllren)
+# Hi there, I'm Arina Musatova 👋 (@nllren)
 
 ### 👩‍💻 About Me
 
 * 🎓 **Education:** CMPE RANEPA, "Information Systems and Programming" (group 201-is-25).
 * 💻 **Languages & Tech:** C, Python, SQL, Luau.
 * 🛠️ **Interests:** Low-level programming, database architecture, scripting, logic structures, and creative tech projects.
+
+---
+
+### 📌 Featured Projects
+
+* 📂 **[daily-programming](https://github.com/nllren/daily-programming)** — Мой репозиторий с ежедневными задачами, практикой программирования и учебными материалами.
 
 ---
 
@@ -34,8 +40,4 @@
 
 ### 📬 Connect with Me
 
-<div align="center">
-
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nllren)
-
-</div>
